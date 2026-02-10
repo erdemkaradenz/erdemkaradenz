@@ -48,4 +48,4 @@ My passion lies in bridging the gap between data science and software engineerin
 
 ### 📫 Connect with Me
 
-* [LinkedIn Profilin](https://www.linkedin.com/in/erdemkaradenz/)
+* [LinkedIn Profile](https://www.linkedin.com/in/erdemkaradenz/)
