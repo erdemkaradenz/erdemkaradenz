@@ -2,7 +2,7 @@
 
 ### Information Systems Engineer | AI & Data Enthusiast
 
-I am an **Upcoming Graduate Information Systems Engineer** from **Kocaeli University** (Feb 2026).
+I am an **New Graduate Information Systems Engineer** from **Kocaeli University** (Feb 2026).
 
 My passion lies in bridging the gap between data science and software engineering. I have hands-on experience building **Generative AI applications (RAG & LLMs)**, scalable backends, and data-driven growth platforms.
 
